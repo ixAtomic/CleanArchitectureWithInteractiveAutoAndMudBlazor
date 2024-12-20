@@ -1,0 +1,6 @@
+@Presentation = http://localhost:5080
+
+GET {{Presentation}}/weatherforecast/
+Accept: application/json
+
+###
