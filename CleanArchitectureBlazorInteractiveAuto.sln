@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureBlazorInte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aspire", "Aspire", "{B8A760A1-5C3F-4138-8DA0-BDC27D951429}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherDbBuilder", "WeatherDbBuilder\WeatherDbBuilder.csproj", "{2EE6A496-07B8-43F3-A0E4-18FEB49289B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -76,6 +78,10 @@ Global
 		{29DCAAEC-F06F-4660-B044-D42C5C089B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29DCAAEC-F06F-4660-B044-D42C5C089B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29DCAAEC-F06F-4660-B044-D42C5C089B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE6A496-07B8-43F3-A0E4-18FEB49289B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE6A496-07B8-43F3-A0E4-18FEB49289B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE6A496-07B8-43F3-A0E4-18FEB49289B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE6A496-07B8-43F3-A0E4-18FEB49289B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
